@@ -19,9 +19,9 @@ I am a motivated and detail-oriented Data Analyst enthusiast with strong skills 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=gowripriya521&limit=5&theme=dark&combine_all_yearly_contributions=true)
+https://github.com/gowripriya521
 
 ---
-[![](https://visitcount.itsvg.in/api?id=gowripriya521&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

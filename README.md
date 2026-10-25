@@ -21,7 +21,7 @@
 
 ---
 
-## `whoami`
+## `who am i`
 
 ```python
 class Gowripriya:
@@ -63,7 +63,10 @@ class Gowripriya:
   <img src="https://streak-stats.demolab.com?user=gowripriya521&hide_border=true&background=0A101F&ring=22D3EE&fire=10B981&currStreakLabel=22D3EE&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="GitHub streak" />
 </div>
 
-## `contribution_activity`
+
+## 🐍 Contribution Activity
+
+![Animated contribution graph snake](https://raw.githubusercontent.com/gowripriya521/gowripriya521/output/github-contribution-grid-snake.svg)
 
 <div align="center">
   <!-- The snake image appears after you run the included GitHub Actions workflow once. -->

@@ -62,17 +62,6 @@ class Gowripriya:
 ## ⚡ GitHub Activity
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=gowripriya521&show_icons=true&hide_border=true&bg_color=0A101F&title_color=22D3EE&icon_color=10B981&text_color=C9D1D9" height="170" alt="GitHub stats" />
-
-<img src="https://streak-stats.demolab.com?user=gowripriya521&theme=dark&hide_border=true&background=0A101F&ring=22D3EE&fire=10B981" height="170" alt="GitHub streak" />
-
-</div>
-
-
-## `github_stats`
-
-<div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=gowripriya521&show_icons=true&hide_border=true&bg_color=0A101F&title_color=22D3EE&icon_color=10B981&text_color=C9D1D9&rank_icon=github" alt="GitHub stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gowripriya521&layout=compact&hide_border=true&bg_color=0A101F&title_color=22D3EE&text_color=C9D1D9" alt="Top languages" />
 </div>

@@ -17,8 +17,8 @@
 <h3>Full-Stack Developer · Building, Learning, Shipping</h3>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=gowripriya521&style=for-the-badge&color=0891b2" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/gowripriya521?style=for-the-badge&color=10b981&label=Followers" alt="GitHub followers" />
+  <img src="https://komarev.com/ghpvc/?username=gowripriya521&style=for-the-badge&color=0891b2" />
+  <img src="https://img.shields.io/github/followers/gowripriya521?style=for-the-badge&color=10b981" />
 </p>
 
 <p>

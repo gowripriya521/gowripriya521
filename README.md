@@ -3,7 +3,7 @@ Beginner in Data Analysis, learning Python and SQL while building projects and i
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="drak_mode.svg" />
   <img alt="gowripriya521's GitHub profile" src="drak_mode.svg" />
 </picture>
 

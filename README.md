@@ -1,25 +1,87 @@
-# 💫 About Me:
-Beginner in Data Analysis, learning Python and SQL while building projects and improving skills.
+<div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
-  <img alt="gowripriya521's GitHub profile" src="drak_mode.svg" />
-</picture>
+<!-- PROFILE BANNER -->
+<!-- To match the reference video closely, replace assets/profile-banner.svg with your personalized portrait banner. -->
+<img src="assets/profile-banner.svg" width="100%" alt="Gowripriya's terminal-style profile banner" />
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gaddamgowripriya) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gowripriyagaddam@gmail.com) 
+<h1>Hi, I'm Gowripriya 👋</h1>
+<h3>Full-Stack Developer · Building, Learning, Shipping</h3>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) 
+<p>
+  <img src="https://komarev.com/ghpvc/?username=gowripriya521&style=for-the-badge&color=0891b2" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/gowripriya521?style=for-the-badge&color=10b981&label=Followers" alt="GitHub followers" />
+</p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p>
+  <a href="https://github.com/gowripriya521"><img src="https://img.shields.io/badge/GitHub-gowripriya521-0A101F?style=for-the-badge&logo=github&logoColor=22D3EE" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A101F?style=for-the-badge&logo=linkedin&logoColor=22D3EE" alt="LinkedIn" /></a>
+</p>
 
-### 🔝 Top Contributed Repo
-https://github.com/gowripriya521
+</div>
 
 ---
 
+## `whoami`
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+```python
+class Gowripriya:
+    role = "Full-Stack Developer"
+    currently = "Building, Learning, Shipping"
+    languages = ["Python", "JavaScript"]
+    frontend = ["HTML", "CSS", "React"]
+    backend = ["FastAPI"]
+    databases = ["PostgreSQL", "SQLite"]
+    tools = ["VS Code", "Git", "GitHub", "Docker"]
+```
+
+## `tech_stack`
+
+<div align="center">
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=python,js" alt="Python and JavaScript" />
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=html,css,react" alt="HTML, CSS, React" />
+
+**Backend, data & tools**
+
+<img src="https://skillicons.dev/icons?i=fastapi,postgres,sqlite,docker,git,github,vscode" alt="FastAPI, PostgreSQL, SQLite, Docker, Git, GitHub, VS Code" />
+
+</div>
+
+## `github_stats`
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=gowripriya521&show_icons=true&hide_border=true&bg_color=0A101F&title_color=22D3EE&icon_color=10B981&text_color=C9D1D9&rank_icon=github" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gowripriya521&layout=compact&hide_border=true&bg_color=0A101F&title_color=22D3EE&text_color=C9D1D9" alt="Top languages" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=gowripriya521&hide_border=true&background=0A101F&ring=22D3EE&fire=10B981&currStreakLabel=22D3EE&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="GitHub streak" />
+</div>
+
+## `contribution_activity`
+
+<div align="center">
+  <!-- The snake image appears after you run the included GitHub Actions workflow once. -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gowripriya521/gowripriya521/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gowripriya521/gowripriya521/output/github-contribution-grid-snake.svg" />
+    <img alt="Animated contribution graph snake" src="https://raw.githubusercontent.com/gowripriya521/gowripriya521/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+## `currently_learning`
+
+- Building APIs with **FastAPI**
+- Practicing **Python** and **JavaScript**
+- Improving full-stack development skills
+
+---
+
+<div align="center">
+  <sub><code>while(alive) { learn(); build(); repeat(); }</code></sub>
+</div>

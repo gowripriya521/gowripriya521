@@ -1,81 +1,41 @@
-# Setup guide — gowripriya521 GitHub profile
+# Setup guide — gowripriya521
 
-This repository package follows the supplied **GitHub-Profile-Master-Prompt.pdf** and
-**GitHub-Profile-Setup-Guide.pdf**, with biography and projects based on `gowri_resume.pdf`.
+## 1. Add these files to your profile repository
 
-## Files included
+Copy the contents of this folder into the root of:
+`https://github.com/gowripriya521/gowripriya521`
 
-- `README.md` — profile content, themed stats-card layout, social badge, and commented banner/snake display blocks.
-- `.github/workflows/snake.yml` — scheduled contribution-snake workflow.
-- `SETUP.md` — this guide.
+Files included:
+- `README.md` — profile layout
+- `.github/workflows/snake.yml` — contribution snake generator
+- `assets/profile-banner.svg` — terminal-style placeholder banner
 
-## 1. Push the repository
+## 2. Enable GitHub Actions write permissions
 
-The profile repository must be public and named exactly `gowripriya521/gowripriya521`, with the default branch named `main`.
+In your repository:
+1. Open **Settings → Actions → General**.
+2. Under **Workflow permissions**, select **Read and write permissions**.
+3. Save.
 
-From the extracted folder, run:
+## 3. Run the contribution snake workflow
 
-```powershell
-git init
-git branch -M main
-git add README.md SETUP.md .github/workflows/snake.yml
-git commit -m "feat: prepare GitHub profile repository"
-git remote add origin https://github.com/gowripriya521/gowripriya521.git
-git push -u origin main
-```
+1. Open the **Actions** tab.
+2. Select **Generate contribution snake**.
+3. Click **Run workflow**.
+4. Wait for the workflow to finish successfully.
 
-If the remote repository already contains commits, clone it first and copy these files into that clone instead of running `git init`.
+The workflow publishes generated SVG files to a branch named `output`. The README image may take a short time to appear after the first run.
 
-## 2. Phase 1 — animated terminal banner
+## 4. Optional: update the banner
 
-The Master Prompt specifies `dark.svg` and `light.svg` generated from your own head-and-shoulders photo and three logo references. Those source images were not present with the files available for this task, so this package does **not** invent a portrait or claim the custom animated banner is finished.
+The current banner is a designed placeholder, not a portrait. Upload a clear head-and-shoulders photo if you want the portrait effect from the reference video. Avoid committing private information or secrets.
 
-1. Choose a sharp head-and-shoulders photo with even lighting and a plain background; ideally the short edge is at least 1000 px.
-2. Supply reference images for the three logos you want to morph between.
-3. Generate and review both theme SVGs according to the Master Prompt.
-4. Put `dark.svg` and `light.svg` in the repository root.
-5. Uncomment the banner `<picture>` block near the top of `README.md`.
+## 5. Optional: personalize social links
 
-The specified banner is a substantial custom asset (roughly 900 KB–1 MB per the prompt). Keep the generator script and `.npy` source data with the project; the SVGs alone are not the source of truth.
+The LinkedIn badge currently links to the LinkedIn homepage. Replace it with your own profile URL if you want a personal link.
 
-## 3. Phase 2 — self-host GitHub stats (required by the PDF)
+## Notes
 
-Do not use the shared public `github-readme-stats` instance for the stats and top-language cards.
-
-1. Open https://github.com/settings/tokens and select **Tokens (classic)**.
-2. Generate a token with the `repo` scope. The PDF specifies no expiration; choose an expiration policy you are comfortable managing if your account offers one.
-3. Copy the token immediately. Treat it like a password. **Never put it in README.md, this repository, a chat, or a public website.**
-4. Fork https://github.com/anuraghazra/github-readme-stats.
-5. Sign in to https://vercel.com with GitHub and import your fork into a project on the free Hobby plan.
-6. In the Vercel project's environment variables, add `PAT_1` with the token as its value, then deploy.
-7. Copy your deployed host name, such as `your-instance.vercel.app`.
-8. In `README.md`, replace both instances of `YOUR-VERCEL-INSTANCE` with that host name (without `https://`).
-9. Test `https://YOUR-VERCEL-INSTANCE.vercel.app/api?username=gowripriya521&show_icons=true`.
-
-`hide_rank=true` is intentional: the letter grade is heavily influenced by repository popularity/stars and can be misleading for newer accounts.
-
-The streak card uses the URL and palette specified by the setup PDF. If the external streak service is unavailable, the card may temporarily fail.
-
-## 4. Phase 3 — enable the contribution snake
-
-1. Open this repository's **Settings → Actions → General**.
-2. Under **Workflow permissions**, select **Read and write permissions**, then save. This is the repository's settings, not your account settings.
-3. Commit `.github/workflows/snake.yml` to `main`.
-4. Open the repository's **Actions** tab and run **Generate Snake Animation**, or wait for the workflow to run.
-5. Confirm the run succeeds and creates the `output` branch containing `github-snake.svg` and `github-snake-dark.svg`.
-6. Only after the run is green, uncomment the snake `<picture>` block in `README.md`.
-
-The workflow runs on pushes to `main`, manually, and every 12 hours. Scheduled workflows can pause after prolonged repository inactivity.
-
-## 5. Phase 4 — social badges
-
-- The email badge is configured for `gowripriyagaddam@gmail.com`.
-- The resume lists LinkedIn but does not expose a verified profile URL. Add the correct LinkedIn URL before uncommenting its badge.
-- The profile setup PDF recommends skipping a GitHub badge on your own profile because your avatar already links to GitHub.
-
-## 6. Verify the final profile
-
-- Check the README in both GitHub light and dark appearance settings.
-- Open SVGs directly if a card looks stale; GitHub's CDN may cache images.
-- Check the latest workflow run if the snake is missing.
-- Avoid publishing API tokens, passwords, or other secrets.
+- GitHub stats and language cards use public third-party services; their uptime and rate limits are outside your control.
+- The README uses the standard GitHub Readme Stats hosted endpoint. If the cards stop loading, you can deploy your own instance and replace the image URLs.
+- The animated, morphing technology logos and photo-dither effect from the video need custom assets/animation to reproduce exactly. This starter includes the profile structure and contribution snake workflow, and the banner can be customized once you provide a photo.

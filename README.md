@@ -51,7 +51,7 @@ class Gowripriya:
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=html,css,react" alt="HTML, CSS, React" />
+<img src="https://skillicons.dev/icons?i=html,css,react" alt="HTML, CSS" />
 
 **Backend, data & tools**
 

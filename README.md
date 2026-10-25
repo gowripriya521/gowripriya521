@@ -9,33 +9,6 @@
 
 <div align="center">
 
-<!-- Theme-aware profile banner -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./dark_mode.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./light_mode.svg" />
-  <img alt="Gowripriya's GitHub profile banner"
-       src="./dark_mode.svg"
-       width="100%" />
-</picture>
-
-<br/>
-
-<!-- Animated typing transition -->
-<a href="https://github.com/gowripriya521">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2500&pause=800&color=22D3EE&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Gowripriya;Full-Stack+Developer;Python+%7C+FastAPI+%7C+React;Building%2C+Learning%2C+Shipping"
-       alt="Typing animation" />
-</a>
-
-<br/>
-
-<!-- Animated technology icons -->
-<img src="https://skillicons.dev/icons?i=python,js,html,css,react,fastapi,postgres,docker,git,github&perline=5"
-     alt="Technology stack" />
-
-</div>
-
-##########
-
 <!-- PROFILE BANNER -->
 <!-- To match the reference video closely, replace assets/profile-banner.svg with your personalized portrait banner. -->
 <img src="assets/profile-banner.svg" width="100%" alt="Gowripriya's terminal-style profile banner" />

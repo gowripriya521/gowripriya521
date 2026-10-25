@@ -35,7 +35,7 @@ class Gowripriya:
     role = "Full-Stack Developer"
     currently = "Building, Learning, Shipping"
     languages = ["Python", "JavaScript"]
-    frontend = ["HTML", "CSS", "React"]
+    frontend = ["HTML", "CSS"]
     backend = ["FastAPI"]
     databases = ["PostgreSQL", "SQLite"]
     tools = ["VS Code", "Git", "GitHub", "Docker"]

@@ -90,10 +90,6 @@ class Gowripriya:
 
 </div>
 
-## 🐍 Contribution Activity
-
-![Animated contribution graph snake](https://raw.githubusercontent.com/gowripriya521/gowripriya521/output/github-contribution-grid-snake.svg)
-
 <div align="center">
   <!-- The snake image appears after you run the included GitHub Actions workflow once. -->
   <picture>

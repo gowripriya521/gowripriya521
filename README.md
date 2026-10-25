@@ -16,10 +16,6 @@
 <h1>Hi, I'm Gowripriya 👋</h1>
 <h3>Full-Stack Developer · Building, Learning, Shipping</h3>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=gowripriya521&style=for-the-badge&color=0891b2" />
-  <img src="https://img.shields.io/github/followers/gowripriya521?style=for-the-badge&color=10b981" />
-</p>
 
 <p>
   <a href="https://github.com/gowripriya521"><img src="https://img.shields.io/badge/GitHub-gowripriya521-0A101F?style=for-the-badge&logo=github&logoColor=22D3EE" alt="GitHub" /></a>

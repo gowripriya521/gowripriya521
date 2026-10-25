@@ -1,13 +1,6 @@
 # 💫 About Me:
 Beginner in Data Analysis, learning Python and SQL while building projects and improving skills.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
-  <img alt="gowripriya521's GitHub profile" src="dark_mode.svg" />
-</picture>
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gaddamgowripriya) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gowripriyagaddam@gmail.com) 
 

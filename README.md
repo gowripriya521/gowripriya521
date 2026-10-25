@@ -59,6 +59,17 @@ class Gowripriya:
 
 </div>
 
+## ⚡ GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=gowripriya521&show_icons=true&hide_border=true&bg_color=0A101F&title_color=22D3EE&icon_color=10B981&text_color=C9D1D9" height="170" alt="GitHub stats" />
+
+<img src="https://streak-stats.demolab.com?user=gowripriya521&theme=dark&hide_border=true&background=0A101F&ring=22D3EE&fire=10B981" height="170" alt="GitHub streak" />
+
+</div>
+
+
 ## `github_stats`
 
 <div align="center">
@@ -70,6 +81,14 @@ class Gowripriya:
   <img src="https://streak-stats.demolab.com?user=gowripriya521&hide_border=true&background=0A101F&ring=22D3EE&fire=10B981&currStreakLabel=22D3EE&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="GitHub streak" />
 </div>
 
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/gowripriya521/gowripriya521/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution snake animation" />
+
+</div>
 
 ## 🐍 Contribution Activity
 

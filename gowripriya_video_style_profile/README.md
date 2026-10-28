@@ -54,13 +54,7 @@ MODE        : LEARN -> BUILD -> IMPROVE
   <img width="85%" src="https://streak-stats.demolab.com?user=gowripriya521&hide_border=true&background=050b16&ring=35d9ff&fire=a78bfa&currStreakLabel=35d9ff&sideLabels=dbeafe&currStreakNum=ffffff&sideNums=ffffff&dates=94a3b8" alt="GitHub streak graph" />
 </div>
 
-## `03 CONTRIBUTION MATRIX`
-
-<div align="center">
-  <img width="98%" src="https://raw.githubusercontent.com/gowripriya521/gowripriya521/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution snake" />
-</div>
-
-## `04 TOOLCHAIN`
+## `03 TOOLCHAIN`
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode&theme=dark" alt="Technology icons" />
@@ -69,7 +63,7 @@ MODE        : LEARN -> BUILD -> IMPROVE
   <img src="https://img.shields.io/badge/SQL-Querying-07111f?style=for-the-badge&logo=mysql&logoColor=a78bfa" alt="SQL badge" />
 </div>
 
-## `05 PROJECT ACCESS`
+## `04 PROJECT ACCESS`
 
 <div align="center">
 

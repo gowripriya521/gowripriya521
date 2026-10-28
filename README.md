@@ -2,11 +2,12 @@
 
 <img src="assets/neon-dashboard.svg" width="100%" alt="Animated neon developer dashboard" />
 
-# `GOWRI PRIYA`
+# `GADDAM GOWRI PRIYA`
 ### Python • Data Analysis • SQL
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2600&pause=800&color=35D9FF&center=true&vCenter=true&width=650&lines=Learning+Python+and+SQL;Building+projects+step+by+step;Exploring+data+and+visualization" alt="Animated typing text" />
 
+<a href="https://in.linkedin.com/in/gaddamgowripriya"><img src="https://img.shields.io/badge/LINKEDIN-gaddamgowripriya-07111f?style=for-the-badge&logo=linkedin&logoColor=35d9ff" alt="Linkedin" /></a>
 <a href="https://github.com/gowripriya521"><img src="https://img.shields.io/badge/GITHUB-gowripriya521-07111f?style=for-the-badge&logo=github&logoColor=35d9ff" alt="GitHub" /></a>
 <a href="https://www.python.org/"><img src="https://img.shields.io/badge/PYTHON-Learning-07111f?style=for-the-badge&logo=python&logoColor=35d9ff" alt="Python" /></a>
 <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/SQL-Learning-07111f?style=for-the-badge&logo=mysql&logoColor=a78bfa" alt="SQL" /></a>
@@ -15,7 +16,7 @@
 
 ---
 
-## `01 // PROFILE SYSTEM`
+## `01 PROFILE SYSTEM`
 
 <table>
 <tr>
@@ -44,7 +45,7 @@ MODE        : LEARN -> BUILD -> IMPROVE
 </tr>
 </table>
 
-## `02 // LIVE ANALYTICS`
+## `02 LIVE ANALYTICS`
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=gowripriya521&show_icons=true&hide_border=true&rank_icon=github&bg_color=050b16&title_color=35d9ff&icon_color=a78bfa&text_color=dbeafe" alt="GitHub stats card" />
@@ -53,13 +54,7 @@ MODE        : LEARN -> BUILD -> IMPROVE
   <img width="85%" src="https://streak-stats.demolab.com?user=gowripriya521&hide_border=true&background=050b16&ring=35d9ff&fire=a78bfa&currStreakLabel=35d9ff&sideLabels=dbeafe&currStreakNum=ffffff&sideNums=ffffff&dates=94a3b8" alt="GitHub streak graph" />
 </div>
 
-## `03 // CONTRIBUTION MATRIX`
-
-<div align="center">
-  <img width="98%" src="https://raw.githubusercontent.com/gowripriya521/gowripriya521/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution snake" />
-</div>
-
-## `04 // TOOLCHAIN`
+## `03 TOOLCHAIN`
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode&theme=dark" alt="Technology icons" />
@@ -68,7 +63,7 @@ MODE        : LEARN -> BUILD -> IMPROVE
   <img src="https://img.shields.io/badge/SQL-Querying-07111f?style=for-the-badge&logo=mysql&logoColor=a78bfa" alt="SQL badge" />
 </div>
 
-## `05 // PROJECT ACCESS`
+## `04 PROJECT ACCESS`
 
 <div align="center">
 

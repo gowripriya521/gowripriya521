@@ -7,6 +7,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2600&pause=800&color=35D9FF&center=true&vCenter=true&width=650&lines=Learning+Python+and+SQL;Building+projects+step+by+step;Exploring+data+and+visualization" alt="Animated typing text" />
 
+<a href="https://www.linkedin.com/in/gaddamgowripriya"><img src="https://img.shields.io/badge/LINKEDIN-gaddamgowripriya-07111f?style=for-the-badge&logo=linkedin&logoColor=35d9ff" alt="Linkedin" /></a>
 <a href="https://github.com/gowripriya521"><img src="https://img.shields.io/badge/GITHUB-gowripriya521-07111f?style=for-the-badge&logo=github&logoColor=35d9ff" alt="GitHub" /></a>
 <a href="https://www.python.org/"><img src="https://img.shields.io/badge/PYTHON-Learning-07111f?style=for-the-badge&logo=python&logoColor=35d9ff" alt="Python" /></a>
 <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/SQL-Learning-07111f?style=for-the-badge&logo=mysql&logoColor=a78bfa" alt="SQL" /></a>

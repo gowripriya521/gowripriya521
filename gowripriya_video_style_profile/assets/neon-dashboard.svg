@@ -17,7 +17,7 @@
 <rect x="66" y="112" width="234" height="228" rx="7" fill="#071426" stroke="#155e75"/>
 <circle cx="183" cy="170" r="40" fill="#0f2942" stroke="#22d3ee" stroke-width="2"/>
 <text x="183" y="181" text-anchor="middle" font-family="monospace" font-size="31" font-weight="bold" fill="#e0f2fe">GP</text>
-<text x="183" y="235" text-anchor="middle" font-family="monospace" font-size="17" font-weight="bold" fill="#f8fafc">GOWRI PRIYA</text>
+<text x="183" y="235" text-anchor="middle" font-family="monospace" font-size="17" font-weight="bold" fill="#f8fafc">GADDAM GOWRI PRIYA</text>
 <text x="183" y="258" text-anchor="middle" font-family="monospace" font-size="11" fill="#67e8f9">PYTHON / DATA / SQL</text>
 <rect x="103" y="280" width="160" height="24" rx="5" fill="#0e7490" opacity=".35" stroke="#22d3ee"/>
 <text x="183" y="296" text-anchor="middle" font-family="monospace" font-size="10" fill="#a5f3fc">STATUS: LEARNING</text>
@@ -32,7 +32,7 @@
 </g>
 <rect x="750" y="236" width="408" height="122" rx="10" fill="#050b16" stroke="#7c3aed"/>
 <text x="772" y="262" font-family="monospace" font-size="12" fill="#c4b5fd">TECH STACK / ACTIVE LEARNING</text>
-<text x="772" y="291" font-family="monospace" font-size="15" fill="#e2e8f0">Python   MySQL   Git   GitHub</text>
+<text x="772" y="291" font-family="monospace" font-size="15" fill="#e2e8f0">Python   MySQL   Git   GitHub Flask</text>
 <text x="772" y="320" font-family="monospace" font-size="13" fill="#94a3b8">DATA VISUALIZATION / PROJECTS</text>
 <path d="M40 386H1160" stroke="url(#edge)" stroke-width="2" stroke-dasharray="22 10" filter="url(#glow)"><animate attributeName="stroke-dashoffset" from="0" to="-128" dur="5s" repeatCount="indefinite"/></path>
 <circle cx="1120" cy="104" r="4" fill="#22d3ee" filter="url(#glow)"><animate attributeName="opacity" values="1;.15;1" dur="1.8s" repeatCount="indefinite"/></circle>

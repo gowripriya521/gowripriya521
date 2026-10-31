@@ -16,14 +16,14 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate light and dark contribution snake
+      - name: Generate animated contribution snake
         uses: Platane/snk@v3
         with:
           github_user_name: gowripriya521
           outputs: |
             dist/github-snake.gif?color_snake=#10b981&color_dots=#ebedf0,#d1fae5,#6ee7b7,#34d399,#059669
 
-      - name: Publish generated SVG files to output branch
+      - name: Publish generated GIF to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output

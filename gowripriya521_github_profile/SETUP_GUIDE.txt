@@ -1,0 +1,6 @@
+# Setup Instructions for Gowri Priya's GitHub Profile
+
+1. GitHub lo mee account login avvandi: https://github.com
+2. 'gowripriya521' ane peru thoti kotha Public repository create cheyandi (repo name username ki exact match avvali).
+3. Ee zip loni 'assets' folder mariyu 'README.md' file ni mee repository lo direct ga upload / commit cheyandi.
+4. Anthe! Mee profile exact ga reference video lo unnatte sci-fi terminal HUD style lo kanipisthundi.

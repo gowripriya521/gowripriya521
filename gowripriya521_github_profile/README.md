@@ -3,16 +3,16 @@
 <div align="center">
 
   <!-- HUD Terminal Window -->
-  <a href="https://github.com/gowripriya521">
-    <img src="http://googleusercontent.com/generated_animated_image/11978769949133419284" alt="Terminal Map Animation" width="100%" style="max-width: 850px; border-radius: 8px;" />
-  </a>
+  <p align="center">
+    <img src="assets/input_file_1.png" alt="Terminal Map Animation" width="100%" style="max-width: 850px; border-radius: 8px;" />
+  </p>
 
-  <br/><br/>
+  <br/>
 
-  <!-- System Info Box (Rendered Cleanly) -->
+  <!-- System Info Box -->
   <table border="0" width="100%">
     <tr>
-      <td bgcolor="#161b22" align="left" style="padding: 15px;">
+      <td bgcolor="#161b22" align="left" style="padding: 15px; border-radius: 8px;">
         <p><b><font color="#58a6ff" face="monospace">● [SYSTEM.INFO] :: GADDAM GOWRI PRIYA</font></b></p>
         <pre face="monospace" style="color: #f0f6fc; background-color: transparent;">
 > ROLE       : Aspiring Full-Stack Developer
@@ -44,7 +44,7 @@
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
     <a href="https://github.com/gowripriya521">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"[cite: 10] />
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
   </p>
 

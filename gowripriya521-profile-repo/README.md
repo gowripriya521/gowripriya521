@@ -1,8 +1,6 @@
 <div align="center">
 
-# ╔══════════════════════════════════════════════════════════════════════════╗
-# ║                  GOWRI PRIYA GADDAM // SYSTEM TERMINAL                   ║
-# ╚══════════════════════════════════════════════════════════════════════════╝
+<img src="assets/neon-dashboard.svg" width="100%" alt="Animated neon developer dashboard" />
 
 <a href="https://github.com/gowripriya521">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FFCC&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%26+Backend+Engineer;Building+Intelligent+AI+Agents+with+Pydantic+AI;Crafting+FastAPI+%26+Flask+REST+APIs;Open+to+Internship+%26+Entry-Level+Opportunities" alt="Typing Header" />

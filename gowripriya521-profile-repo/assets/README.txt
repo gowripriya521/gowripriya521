@@ -1,1 +1,0 @@
-Place your custom ASCII/particle GIFs, banners, or images here.

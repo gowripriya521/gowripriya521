@@ -71,9 +71,6 @@
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gowripriya521&layout=compact&theme=tokyonight&border_color=00ffcc&bg_color=0d1117&title_color=00ffcc&text_color=e2e8f0" alt="Top Languages" width="48%" />
-
-</div>
 
 #### 🐍 Activity Matrix (Contribution Grid)
 

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="100" viewBox="0 0 1200 100">
+<defs><linearGradient id="g"><stop stop-color="#22d3ee"/><stop offset=".5" stop-color="#6366f1"/><stop offset="1" stop-color="#c084fc"/></linearGradient></defs>
+<rect width="1200" height="100" rx="12" fill="#050b16" stroke="#164e63"/>
+<path d="M0 20H1200M0 80H1200" stroke="url(#g)" stroke-width="1" opacity=".7"/>
+<path d="M0 50H1200" stroke="url(#g)" stroke-width="2" stroke-dasharray="18 12"><animate attributeName="stroke-dashoffset" from="0" to="-150" dur="4s" repeatCount="indefinite"/></path>
+<text x="600" y="44" text-anchor="middle" font-family="monospace" font-size="17" letter-spacing="4" fill="#e0f2fe">END OF TRANSMISSION</text>
+<text x="600" y="69" text-anchor="middle" font-family="monospace" font-size="12" fill="#a5b4fc">KEEP LEARNING • KEEP BUILDING</text>
+</svg>

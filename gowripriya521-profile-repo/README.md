@@ -145,12 +145,19 @@
 
 ---
 
-### 📡 System Connect
-
-```bash
-curl -s https://api.github.com/users/gowripriya521 | jq '{name, bio, location, hireable}'
-```
+## 📡 Project Access
 
 <div align="center">
-  <sub>Engineered by <b>Gowri Priya Gaddam</b> • Madanapalle, India</sub>
+
+<a href="https://github.com/gowripriya521?tab=repositories">
+<img src="https://img.shields.io/badge/OPEN%20REPOSITORIES-Explore%20Projects-07111f?style=for-the-badge&logo=github&logoColor=35d9ff" alt="Explore my repositories" />
+</a>
+
+</div>
+
+> Add individual project cards here as your repositories are ready to showcase.
+
+<div align="center">
+  <img src="assets/neon-footer.svg" width="100%" alt="Animated neon footer" />
+  <sub>BUILDING RELIABLE SKILLS • ONE COMMIT AT A TIME</sub>
 </div>

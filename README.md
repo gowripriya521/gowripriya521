@@ -80,6 +80,13 @@
 
 </div>
 
+<br/><br/>
+
+<!-- Live Profile Telemetry Card -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gowripriya521&theme=tokyonight" alt="Contribution Telemetry Summary" width="96%" />
+
+</div>
+
 #### 🐍 Activity Matrix (Contribution Grid)
 
 <div align="center">

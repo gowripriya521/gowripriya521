@@ -83,7 +83,7 @@
 <div align="center">
 
 <!-- GitHub Stats -->
-<img src="https://github-stats-extended.vercel.app/api?username=gowripriya521&show_icons=true&include_all_commits=true&theme=tokyonight&border_color=00ffcc&bg_color=0d1117&title_color=00ffcc&text_color=e2e8f0&icon_color=00ffcc&hide_border=false" alt="Gowri Priya's GitHub Stats" width="48%" />
+<img src="https://stats.justin0304.dev/api?username=gowripriya521&show_icons=true&include_all_commits=true&theme=tokyonight&border_color=00ffcc&bg_color=0d1117&title_color=00ffcc&text_color=e2e8f0&icon_color=00ffcc&hide_border=false&cache_seconds=86400" alt="Gowri Priya's GitHub Stats" width="48%" />
 
 <!-- GitHub Streak Stats -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=gowripriya521&theme=tokyonight&border=00ffcc&background=0d1117&fire=00ffcc&ring=38bdf8&currStreakLabel=00ffcc" alt="Streak Stats" width="48%" />
@@ -91,7 +91,7 @@
 <br/><br/>
 
 <!-- Top Languages -->
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=gowripriya521&layout=compact&langs_count=8&theme=tokyonight&border_color=00ffcc&bg_color=0d1117&title_color=00ffcc&text_color=e2e8f0&hide_border=false" alt="Top Languages" width="48%" />
+<img src="https://stats.justin0304.dev/api/top-langs/?username=gowripriya521&layout=compact&langs_count=8&theme=tokyonight&border_color=00ffcc&bg_color=0d1117&title_color=00ffcc&text_color=e2e8f0&hide_border=false&cache_seconds=86400" alt="Top Languages" width="48%" />
 
 </div>
 

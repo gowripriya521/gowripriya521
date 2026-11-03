@@ -79,7 +79,7 @@
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gowripriya521&layout=compact&theme=tokyonight&border_color=00ffcc&bg_color=0d1117&title_color=00ffcc&text_color=e2e8f0&hide_border=false" alt="Top Languages" width="48%" />
 
 </div>
-
+#### 📊 Contribution Telemetry Graph
 <br/><br/>
 
 <!-- Live Profile Telemetry Card -->
@@ -93,11 +93,6 @@
   <img src="https://raw.githubusercontent.com/gowripriya521/gowripriya521/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%" />
 </div>
 
-#### 📊 Contribution Telemetry Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gowripriya521&theme=tokyo-night&bg_color=0d1117&color=00ffcc&line=00ffcc&point=38bdf8&area=true&hide_border=false" alt="Activity Graph" width="100%" />
-</div>
 
 ---
 

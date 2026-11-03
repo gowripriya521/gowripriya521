@@ -87,6 +87,14 @@
 
 </div>
 
+
+#### 🐍 Activity Matrix & Contribution Telemetry
+
+<div align="center">
+  <!-- Self-Hosted SVG: Always Animated Graph & Moving Slithering Snake Matrix -->
+  <img src="https://raw.githubusercontent.com/gowripriya521/gowripriya521/main/assets/live-matrix-graph.svg" alt="Live Activity Matrix" width="100%" />
+</div>
+
 ---
 
 ### 🛠️ Tech Stack & Architecture

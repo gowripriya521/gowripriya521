@@ -67,11 +67,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=gowripriya521&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" width="49%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gowripriya521&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="49%" />
-
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=gowripriya521&show_icons=true&theme=tokyonight&border_color=00ffcc&bg_color=0d1117&title_color=00ffcc&text_color=e2e8f0&icon_color=00ffcc&hide_border=false" alt="Gowri Priya's GitHub Stats" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=gowripriya521&theme=tokyonight&border=00ffcc&background=0d1117&fire=00ffcc&ring=38bdf8&currStreakLabel=00ffcc" alt="Streak Stats" width="48%" />
 
 <br/><br/>
   

@@ -83,14 +83,11 @@
 #### 🐍 Activity Matrix (Contribution Grid)
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/gowripriya521/gowripriya521/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Animation" width="100%" />
-</div>
-
-
-#### 🐍 Activity Matrix (Contribution Grid)
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/gowripriya521/gowripriya521/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Animation" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gowripriya521/gowripriya521/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gowripriya521/gowripriya521/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/gowripriya521/gowripriya521/output/github-contribution-grid-snake-dark.svg" width="100%">
+  </picture>
 </div>
 
 ---

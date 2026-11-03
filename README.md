@@ -86,12 +86,6 @@
   <!-- Self-Hosted SVG: Always Animated Graph & Moving Slithering Snake Matrix -->
   <img src="https://raw.githubusercontent.com/gowripriya521/gowripriya521/main/assets/live-matrix-graph.svg" alt="Live Activity Matrix" width="100%" />
 </div>
-#### 📊 Activity Matrix & Contribution Telemetry
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gowripriya521&theme=tokyo-night&bg_color=0d1117&color=00ffcc&line=00ffcc&point=38bdf8&area=true&hide_border=false" alt="Activity Graph" width="100%" />
-</div>
-
 ---
 
 ### 🛠️ Tech Stack & Architecture

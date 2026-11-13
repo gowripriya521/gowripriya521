@@ -116,36 +116,6 @@
 | **Data Analysis** | Beginner | Exploratory data analysis, cleaning pipelines, summary metrics visualization. |
 
 ---
-
-### 📂 Featured Implementations
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🚀 Pydantic AI Intelligent Agent</h3>
-      <p>Tool-calling assistant engineered with Python and Google Gemini API for structured schema parsing and automated workflow execution.</p>
-      <p align="center">
-        <code>Python</code> <code>Pydantic AI</code> <code>Gemini API</code>
-      </p>
-      <p align="center">
-        <a href="https://github.com/gowripriya521"><b>View Source Code ➔</b></a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">⚡ Asynchronous REST API Suite</h3>
-      <p>Performant CRUD backend built with FastAPI, PostgreSQL relational modeling, and automated Postman integration tests.</p>
-      <p align="center">
-        <code>FastAPI</code> <code>PostgreSQL</code> <code>Postman</code>
-      </p>
-      <p align="center">
-        <a href="https://github.com/gowripriya521"><b>View Source Code ➔</b></a>
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
 ## 📡 Project Access
 
 <div align="center">

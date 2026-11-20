@@ -80,6 +80,38 @@
 
 </div>
 
+----
+
+<!-- GitHub Stats & Top Languages -->
+
+<div align="center">
+
+  <!-- GitHub Stats Card -->
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=gowripriya521&show_icons=true&include_all_commits=true&theme=tokyonight&border_color=00ffcc&bg_color=0d1117&title_color=00ffcc&text_color=e2e8f0&icon_color=00ffcc&hide_border=false&cache_seconds=1800"
+    alt="Gowri Priya's GitHub Stats"
+    width="48%"
+  />
+
+  <!-- GitHub Streak Stats -->
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=gowripriya521&theme=tokyonight&border=00ffcc&background=0d1117&fire=00ffcc&ring=38bdf8&currStreakLabel=00ffcc"
+    alt="GitHub Streak Stats"
+    width="48%"
+  />
+
+  <br/><br/>
+
+  <!-- Top Languages Card -->
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gowripriya521&layout=compact&langs_count=8&theme=tokyonight&border_color=00ffcc&bg_color=0d1117&title_color=00ffcc&text_color=e2e8f0&hide_border=false&cache_seconds=1800"
+    alt="Top Programming Languages"
+    width="60%"
+  />
+
+</div>
+---
+
 #### 🐍 Activity Matrix & Contribution Telemetry
 
 <div align="center">

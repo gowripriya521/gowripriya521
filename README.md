@@ -82,34 +82,34 @@
 
 ----
 
-<!-- GitHub Stats & Top Languages -->
 
+<!-- GitHub Stats -->
 <div align="center">
 
-  <!-- GitHub Stats Card -->
   <img
-    src="https://github-readme-stats.vercel.app/api?username=gowripriya521&show_icons=true&include_all_commits=true&theme=tokyonight&border_color=00ffcc&bg_color=0d1117&title_color=00ffcc&text_color=e2e8f0&icon_color=00ffcc&hide_border=false&cache_seconds=1800"
-    alt="Gowri Priya's GitHub Stats"
+    src="https://github-readme-stats.vercel.app/api?username=gowripriya521&show_icons=true&theme=tokyonight&border_color=00ffcc&bg_color=0d1117&title_color=00ffcc&text_color=e2e8f0&icon_color=00ffcc&hide_border=false&cache_seconds=3600"
+    alt="GitHub Statistics"
     width="48%"
   />
 
-  <!-- GitHub Streak Stats -->
+  <!-- GitHub Streak -->
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=gowripriya521&theme=tokyonight&border=00ffcc&background=0d1117&fire=00ffcc&ring=38bdf8&currStreakLabel=00ffcc"
-    alt="GitHub Streak Stats"
+    src="https://streak-stats.demolab.com?user=gowripriya521&theme=tokyonight&border=00ffcc&background=0d1117&fire=00ffcc&ring=38bdf8&currStreakLabel=00ffcc"
+    alt="GitHub Contribution Streak"
     width="48%"
   />
 
   <br/><br/>
 
-  <!-- Top Languages Card -->
+  <!-- Top Languages -->
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gowripriya521&layout=compact&langs_count=8&theme=tokyonight&border_color=00ffcc&bg_color=0d1117&title_color=00ffcc&text_color=e2e8f0&hide_border=false&cache_seconds=1800"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gowripriya521&layout=compact&langs_count=8&theme=tokyonight&border_color=00ffcc&bg_color=0d1117&title_color=00ffcc&text_color=e2e8f0&hide_border=false&cache_seconds=3600"
     alt="Top Programming Languages"
     width="60%"
   />
 
 </div>
+
 ---
 
 #### 🐍 Activity Matrix & Contribution Telemetry

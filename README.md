@@ -70,57 +70,15 @@
 
 <!-- GitHub Stats Card -->
 <img src="https://github-readme-stats.vercel.app/api?username=gowripriya521&show_icons=true&theme=tokyonight&border_color=00ffcc&bg_color=0d1117&title_color=00ffcc&text_color=e2e8f0&icon_color=00ffcc&hide_border=false&cache_seconds=3600" alt="Gowri Priya's GitHub Stats" width="48%" /> <!-- GitHub Streak Stats --> <img src="https://streak-stats.demolab.com?user=gowripriya521&theme=tokyonight&border=00ffcc&background=0d1117&fire=00ffcc&ring=38bdf8&currStreakLabel=00ffcc" alt="Streak Stats" width="48%" />
-
 <br/><br/>
-
 <!-- Top Languages Card -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gowripriya521&layout=compact&langs_count=6&exclude_repo=gowripriya521&theme=tokyonight&border_color=00ffcc&bg_color=0d1117&title_color=00ffcc&text_color=e2e8f0&hide_border=false&cache_seconds=3600" alt="Top Languages" width="38%" />
-
 </div>
 
 #### 🐍 Activity Matrix & Contribution Telemetry
 
 <div align="center">
   <!-- Self-Hosted SVG: Activity Graph -->
-  <img src="https://raw.githubusercontent.com/gowripriya521/gowripriya521/main/assets/live-matrix-graph.svg" alt="Live Activity Matrix" width="100%" />
-</div>
-
-
-### 📊 Telemetry & Live Contributions
-
-<div align="center">
-
-<!-- GitHub Stats -->
-<div align="center">
-
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=gowripriya521&show_icons=true&theme=tokyonight&border_color=00ffcc&bg_color=0d1117&title_color=00ffcc&text_color=e2e8f0&icon_color=00ffcc&hide_border=false&cache_seconds=3600"
-    alt="GitHub Statistics"
-    width="48%"
-  />
-
-  <!-- GitHub Streak -->
-  <img
-    src="https://streak-stats.demolab.com?user=gowripriya521&theme=tokyonight&border=00ffcc&background=0d1117&fire=00ffcc&ring=38bdf8&currStreakLabel=00ffcc"
-    alt="GitHub Contribution Streak"
-    width="48%"
-  />
-
-  <br/><br/>
-
-  <!-- Top Languages -->
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gowripriya521&layout=compact&langs_count=8&theme=tokyonight&border_color=00ffcc&bg_color=0d1117&title_color=00ffcc&text_color=e2e8f0&hide_border=false&cache_seconds=3600"
-    alt="Top Programming Languages"
-    width="60%"
-  />
-
-</div>
-
-#### 🐍 Activity Matrix & Contribution Telemetry
-
-<div align="center">
-  <!-- Self-Hosted SVG: Always Animated Graph & Moving Slithering Snake Matrix -->
   <img src="https://raw.githubusercontent.com/gowripriya521/gowripriya521/main/assets/live-matrix-graph.svg" alt="Live Activity Matrix" width="100%" />
 </div>
 ---
